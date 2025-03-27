@@ -1,6 +1,7 @@
 {
 	"pack": {
 		"description": "Redstone? Never heard of it. Do you mean Cloudstone?",
-		"pack_format": 34
+		"pack_format": 46,
+		"supported_formats": [46,100]
 	}
 }

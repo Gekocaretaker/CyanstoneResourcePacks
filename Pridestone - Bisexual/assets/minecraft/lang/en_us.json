@@ -1,0 +1,21 @@
+{
+  "advMode.mode.redstoneTriggered": "Needs Bisexual Redstone",
+
+  "block.minecraft.comparator": "Bisexual Redstone Comparator",
+  "block.minecraft.deepslate_redstone_ore": "Deepslate Bisexual Redstone Ore",
+  "block.minecraft.redstone_block": "Bisexual Redstone Block",
+  "block.minecraft.redstone_lamp": "Bisexual Redstone Lamp",
+  "block.minecraft.redstone_ore": "Bisexual Redstone Ore",
+  "block.minecraft.redstone_torch": "Bisexual Redstone Torch",
+  "block.minecraft.redstone_wall_torch": "Bisexual Redstone Wall Torch",
+  "block.minecraft.redstone_wire": "Bisexual Redstone Wire",
+  "block.minecraft.repeater": "Bisexual Redstone Repeater",
+
+  "flat_world_preset.minecraft.redstone_ready": "Bisexual Redstone Ready",
+
+  "item.minecraft.redstone": "Bisexual Redstone Dust",
+
+  "itemGroup.redstone": "Bisexual Redstone Blocks",
+
+  "trim_material.minecraft.redstone": "Bisexual Redstone Material"
+}

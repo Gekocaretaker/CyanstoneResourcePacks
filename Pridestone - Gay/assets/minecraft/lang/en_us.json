@@ -1,0 +1,21 @@
+{
+  "advMode.mode.redstoneTriggered": "Needs Gay Redstone",
+
+  "block.minecraft.comparator": "Gay Redstone Comparator",
+  "block.minecraft.deepslate_redstone_ore": "Deepslate Gay Redstone Ore",
+  "block.minecraft.redstone_block": "Gay Redstone Block",
+  "block.minecraft.redstone_lamp": "Gay Redstone Lamp",
+  "block.minecraft.redstone_ore": "Gay Redstone Ore",
+  "block.minecraft.redstone_torch": "Gay Redstone Torch",
+  "block.minecraft.redstone_wall_torch": "Gay Redstone Wall Torch",
+  "block.minecraft.redstone_wire": "Gay Redstone Wire",
+  "block.minecraft.repeater": "Gay Redstone Repeater",
+
+  "flat_world_preset.minecraft.redstone_ready": "Gay Redstone Ready",
+
+  "item.minecraft.redstone": "Gay Redstone Dust",
+
+  "itemGroup.redstone": "Gay Redstone Blocks",
+
+  "trim_material.minecraft.redstone": "Gay Redstone Material"
+}

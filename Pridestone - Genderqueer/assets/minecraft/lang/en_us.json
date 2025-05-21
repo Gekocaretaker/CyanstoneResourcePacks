@@ -1,0 +1,21 @@
+{
+  "advMode.mode.redstoneTriggered": "Needs Genderqueer Redstone",
+
+  "block.minecraft.comparator": "Genderqueer Redstone Comparator",
+  "block.minecraft.deepslate_redstone_ore": "Deepslate Genderqueer Redstone Ore",
+  "block.minecraft.redstone_block": "Genderqueer Redstone Block",
+  "block.minecraft.redstone_lamp": "Genderqueer Redstone Lamp",
+  "block.minecraft.redstone_ore": "Genderqueer Redstone Ore",
+  "block.minecraft.redstone_torch": "Genderqueer Redstone Torch",
+  "block.minecraft.redstone_wall_torch": "Genderqueer Redstone Wall Torch",
+  "block.minecraft.redstone_wire": "Genderqueer Redstone Wire",
+  "block.minecraft.repeater": "Genderqueer Redstone Repeater",
+
+  "flat_world_preset.minecraft.redstone_ready": "Genderqueer Redstone Ready",
+
+  "item.minecraft.redstone": "Genderqueer Redstone Dust",
+
+  "itemGroup.redstone": "Genderqueer Redstone Blocks",
+
+  "trim_material.minecraft.redstone": "Genderqueer Redstone Material"
+}

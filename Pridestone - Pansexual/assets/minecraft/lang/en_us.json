@@ -1,0 +1,21 @@
+{
+  "advMode.mode.redstoneTriggered": "Needs Pansexual Redstone",
+
+  "block.minecraft.comparator": "Pansexual Redstone Comparator",
+  "block.minecraft.deepslate_redstone_ore": "Deepslate Pansexual Redstone Ore",
+  "block.minecraft.redstone_block": "Pansexual Redstone Block",
+  "block.minecraft.redstone_lamp": "Pansexual Redstone Lamp",
+  "block.minecraft.redstone_ore": "Pansexual Redstone Ore",
+  "block.minecraft.redstone_torch": "Pansexual Redstone Torch",
+  "block.minecraft.redstone_wall_torch": "Pansexual Redstone Wall Torch",
+  "block.minecraft.redstone_wire": "Pansexual Redstone Wire",
+  "block.minecraft.repeater": "Pansexual Redstone Repeater",
+
+  "flat_world_preset.minecraft.redstone_ready": "Pansexual Redstone Ready",
+
+  "item.minecraft.redstone": "Pansexual Redstone Dust",
+
+  "itemGroup.redstone": "Pansexual Redstone Blocks",
+
+  "trim_material.minecraft.redstone": "Pansexual Redstone Material"
+}

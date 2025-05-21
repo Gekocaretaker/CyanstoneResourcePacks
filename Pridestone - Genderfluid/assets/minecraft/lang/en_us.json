@@ -1,0 +1,21 @@
+{
+  "advMode.mode.redstoneTriggered": "Needs Genderfluid Redstone",
+
+  "block.minecraft.comparator": "Genderfluid Redstone Comparator",
+  "block.minecraft.deepslate_redstone_ore": "Deepslate Genderfluid Redstone Ore",
+  "block.minecraft.redstone_block": "Genderfluid Redstone Block",
+  "block.minecraft.redstone_lamp": "Genderfluid Redstone Lamp",
+  "block.minecraft.redstone_ore": "Genderfluid Redstone Ore",
+  "block.minecraft.redstone_torch": "Genderfluid Redstone Torch",
+  "block.minecraft.redstone_wall_torch": "Genderfluid Redstone Wall Torch",
+  "block.minecraft.redstone_wire": "Genderfluid Redstone Wire",
+  "block.minecraft.repeater": "Genderfluid Redstone Repeater",
+
+  "flat_world_preset.minecraft.redstone_ready": "Genderfluid Redstone Ready",
+
+  "item.minecraft.redstone": "Genderfluid Redstone Dust",
+
+  "itemGroup.redstone": "Genderfluid Redstone Blocks",
+
+  "trim_material.minecraft.redstone": "Genderfluid Redstone Material"
+}

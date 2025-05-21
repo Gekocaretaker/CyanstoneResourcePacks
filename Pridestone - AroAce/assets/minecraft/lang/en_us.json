@@ -1,0 +1,21 @@
+{
+  "advMode.mode.redstoneTriggered": "Needs AroAce Redstone",
+
+  "block.minecraft.comparator": "AroAce Redstone Comparator",
+  "block.minecraft.deepslate_redstone_ore": "Deepslate AroAce Redstone Ore",
+  "block.minecraft.redstone_block": "AroAce Redstone Block",
+  "block.minecraft.redstone_lamp": "AroAce Redstone Lamp",
+  "block.minecraft.redstone_ore": "AroAce Redstone Ore",
+  "block.minecraft.redstone_torch": "AroAce Redstone Torch",
+  "block.minecraft.redstone_wall_torch": "AroAce Redstone Wall Torch",
+  "block.minecraft.redstone_wire": "AroAce Redstone Wire",
+  "block.minecraft.repeater": "AroAce Redstone Repeater",
+
+  "flat_world_preset.minecraft.redstone_ready": "AroAce Redstone Ready",
+
+  "item.minecraft.redstone": "AroAce Redstone Dust",
+
+  "itemGroup.redstone": "AroAce Redstone Blocks",
+
+  "trim_material.minecraft.redstone": "AroAce Redstone Material"
+}

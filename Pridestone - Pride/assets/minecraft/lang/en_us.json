@@ -1,0 +1,21 @@
+{
+  "advMode.mode.redstoneTriggered": "Needs Pride redstone",
+
+  "block.minecraft.comparator": "Pride Redstone Comparator",
+  "block.minecraft.deepslate_redstone_ore": "Deepslate Pride Redstone Ore",
+  "block.minecraft.redstone_block": "Pride Redstone Block",
+  "block.minecraft.redstone_lamp": "Pride Redstone Lamp",
+  "block.minecraft.redstone_ore": "Pride Redstone Ore",
+  "block.minecraft.redstone_torch": "Pride Redstone Torch",
+  "block.minecraft.redstone_wall_torch": "Pride Redstone Wall Torch",
+  "block.minecraft.redstone_wire": "Pride Redstone Wire",
+  "block.minecraft.repeater": "Pride Redstone Repeater",
+
+  "flat_world_preset.minecraft.redstone_ready": "Pride Redstone Ready",
+
+  "item.minecraft.redstone": "Pride Redstone Dust",
+
+  "itemGroup.redstone": "Pride Redstone Blocks",
+
+  "trim_material.minecraft.redstone": "Pride Redstone Material"
+}

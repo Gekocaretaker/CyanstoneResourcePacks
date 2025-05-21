@@ -1,0 +1,21 @@
+{
+  "advMode.mode.redstoneTriggered": "Needs Aromantic Redstone",
+
+  "block.minecraft.comparator": "Aromantic Redstone Comparator",
+  "block.minecraft.deepslate_redstone_ore": "Deepslate Aromantic Redstone Ore",
+  "block.minecraft.redstone_block": "Aromantic Redstone Block",
+  "block.minecraft.redstone_lamp": "Aromantic Redstone Lamp",
+  "block.minecraft.redstone_ore": "Aromantic Redstone Ore",
+  "block.minecraft.redstone_torch": "Aromantic Redstone Torch",
+  "block.minecraft.redstone_wall_torch": "Aromantic Redstone Wall Torch",
+  "block.minecraft.redstone_wire": "Aromantic Redstone Wire",
+  "block.minecraft.repeater": "Aromantic Redstone Repeater",
+
+  "flat_world_preset.minecraft.redstone_ready": "Aromantic Redstone Ready",
+
+  "item.minecraft.redstone": "Aromantic Redstone Dust",
+
+  "itemGroup.redstone": "Aromantic Redstone Blocks",
+
+  "trim_material.minecraft.redstone": "Aromantic Redstone Material"
+}

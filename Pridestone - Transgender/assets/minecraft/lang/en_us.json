@@ -1,0 +1,21 @@
+{
+  "advMode.mode.redstoneTriggered": "Needs Transgender Redstone",
+
+  "block.minecraft.comparator": "Transgender Redstone Comparator",
+  "block.minecraft.deepslate_redstone_ore": "Deepslate Transgender Redstone Ore",
+  "block.minecraft.redstone_block": "Transgender Redstone Block",
+  "block.minecraft.redstone_lamp": "Transgender Redstone Lamp",
+  "block.minecraft.redstone_ore": "Transgender Redstone Ore",
+  "block.minecraft.redstone_torch": "Transgender Redstone Torch",
+  "block.minecraft.redstone_wall_torch": "Transgender Redstone Wall Torch",
+  "block.minecraft.redstone_wire": "Transgender Redstone Wire",
+  "block.minecraft.repeater": "Transgender Redstone Repeater",
+
+  "flat_world_preset.minecraft.redstone_ready": "Transgender Redstone Ready",
+
+  "item.minecraft.redstone": "Transgender Redstone Dust",
+
+  "itemGroup.redstone": "Transgender Redstone Blocks",
+
+  "trim_material.minecraft.redstone": "Transgender Redstone Material"
+}

@@ -1,0 +1,21 @@
+{
+  "advMode.mode.redstoneTriggered": "Needs Intersex Redstone",
+
+  "block.minecraft.comparator": "Intersex Redstone Comparator",
+  "block.minecraft.deepslate_redstone_ore": "Deepslate Intersex Redstone Ore",
+  "block.minecraft.redstone_block": "Intersex Redstone Block",
+  "block.minecraft.redstone_lamp": "Intersex Redstone Lamp",
+  "block.minecraft.redstone_ore": "Intersex Redstone Ore",
+  "block.minecraft.redstone_torch": "Intersex Redstone Torch",
+  "block.minecraft.redstone_wall_torch": "Intersex Redstone Wall Torch",
+  "block.minecraft.redstone_wire": "Intersex Redstone Wire",
+  "block.minecraft.repeater": "Intersex Redstone Repeater",
+
+  "flat_world_preset.minecraft.redstone_ready": "Intersex Redstone Ready",
+
+  "item.minecraft.redstone": "Intersex Redstone Dust",
+
+  "itemGroup.redstone": "Intersex Redstone Blocks",
+
+  "trim_material.minecraft.redstone": "Intersex Redstone Material"
+}

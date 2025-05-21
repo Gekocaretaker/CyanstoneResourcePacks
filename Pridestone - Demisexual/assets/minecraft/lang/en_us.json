@@ -1,0 +1,21 @@
+{
+  "advMode.mode.redstoneTriggered": "Needs Demisexual Redstone",
+
+  "block.minecraft.comparator": "Demisexual Redstone Comparator",
+  "block.minecraft.deepslate_redstone_ore": "Deepslate Demisexual Redstone Ore",
+  "block.minecraft.redstone_block": "Demisexual Redstone Block",
+  "block.minecraft.redstone_lamp": "Demisexual Redstone Lamp",
+  "block.minecraft.redstone_ore": "Demisexual Redstone Ore",
+  "block.minecraft.redstone_torch": "Demisexual Redstone Torch",
+  "block.minecraft.redstone_wall_torch": "Demisexual Redstone Wall Torch",
+  "block.minecraft.redstone_wire": "Demisexual Redstone Wire",
+  "block.minecraft.repeater": "Demisexual Redstone Repeater",
+
+  "flat_world_preset.minecraft.redstone_ready": "Demisexual Redstone Ready",
+
+  "item.minecraft.redstone": "Demisexual Redstone Dust",
+
+  "itemGroup.redstone": "Demisexual Redstone Blocks",
+
+  "trim_material.minecraft.redstone": "Demisexual Redstone Material"
+}

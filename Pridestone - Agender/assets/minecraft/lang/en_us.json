@@ -1,0 +1,21 @@
+{
+  "advMode.mode.redstoneTriggered": "Needs Agender Redstone",
+
+  "block.minecraft.comparator": "Agender Redstone Comparator",
+  "block.minecraft.deepslate_redstone_ore": "Deepslate Agender Redstone Ore",
+  "block.minecraft.redstone_block": "Agender Redstone Block",
+  "block.minecraft.redstone_lamp": "Agender Redstone Lamp",
+  "block.minecraft.redstone_ore": "Agender Redstone Ore",
+  "block.minecraft.redstone_torch": "Agender Redstone Torch",
+  "block.minecraft.redstone_wall_torch": "Agender Redstone Wall Torch",
+  "block.minecraft.redstone_wire": "Agender Redstone Wire",
+  "block.minecraft.repeater": "Agender Redstone Repeater",
+
+  "flat_world_preset.minecraft.redstone_ready": "Agender Redstone Ready",
+
+  "item.minecraft.redstone": "Agender Redstone Dust",
+
+  "itemGroup.redstone": "Agender Redstone Blocks",
+
+  "trim_material.minecraft.redstone": "Agender Redstone Material"
+}

@@ -1,0 +1,21 @@
+{
+  "advMode.mode.redstoneTriggered": "Needs Nonbinary Redstone",
+
+  "block.minecraft.comparator": "Nonbinary Redstone Comparator",
+  "block.minecraft.deepslate_redstone_ore": "Deepslate Nonbinary Redstone Ore",
+  "block.minecraft.redstone_block": "Nonbinary Redstone Block",
+  "block.minecraft.redstone_lamp": "Nonbinary Redstone Lamp",
+  "block.minecraft.redstone_ore": "Nonbinary Redstone Ore",
+  "block.minecraft.redstone_torch": "Nonbinary Redstone Torch",
+  "block.minecraft.redstone_wall_torch": "Nonbinary Redstone Wall Torch",
+  "block.minecraft.redstone_wire": "Nonbinary Redstone Wire",
+  "block.minecraft.repeater": "Nonbinary Redstone Repeater",
+
+  "flat_world_preset.minecraft.redstone_ready": "Nonbinary Redstone Ready",
+
+  "item.minecraft.redstone": "Nonbinary Redstone Dust",
+
+  "itemGroup.redstone": "Nonbinary Redstone Blocks",
+
+  "trim_material.minecraft.redstone": "Nonbinary Redstone Material"
+}

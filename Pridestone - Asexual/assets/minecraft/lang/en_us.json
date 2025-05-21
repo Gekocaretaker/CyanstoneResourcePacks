@@ -1,0 +1,21 @@
+{
+  "advMode.mode.redstoneTriggered": "Needs Asexual Redstone",
+
+  "block.minecraft.comparator": "Asexual Redstone Comparator",
+  "block.minecraft.deepslate_redstone_ore": "Deepslate Asexual Redstone Ore",
+  "block.minecraft.redstone_block": "Asexual Redstone Block",
+  "block.minecraft.redstone_lamp": "Asexual Redstone Lamp",
+  "block.minecraft.redstone_ore": "Asexual Redstone Ore",
+  "block.minecraft.redstone_torch": "Asexual Redstone Torch",
+  "block.minecraft.redstone_wall_torch": "Asexual Redstone Wall Torch",
+  "block.minecraft.redstone_wire": "Asexual Redstone Wire",
+  "block.minecraft.repeater": "Asexual Redstone Repeater",
+
+  "flat_world_preset.minecraft.redstone_ready": "Asexual Redstone Ready",
+
+  "item.minecraft.redstone": "Asexual Redstone Dust",
+
+  "itemGroup.redstone": "Asexual Redstone Blocks",
+
+  "trim_material.minecraft.redstone": "Asexual Redstone Material"
+}

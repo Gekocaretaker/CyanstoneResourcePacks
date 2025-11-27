@@ -1,7 +1,7 @@
 {
 	"pack": {
 		"description": "Have a happy pride month with Aromantic themed redstone!",
-		"pack_format": 46,
-		"supported_formats": [46,100]
+		"min_format": 69,
+		"max_format": 100
 	}
 }
